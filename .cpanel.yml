@@ -8,4 +8,4 @@ deployment:
         - /bin cp /<sub_folder>/* $DEPLOYPATH             #copy all from sub folder root
         - /bin/cp -r * $DEPLOYPATH                        #copy all recursively to $DEPLOYPATH
         
-        
+      
